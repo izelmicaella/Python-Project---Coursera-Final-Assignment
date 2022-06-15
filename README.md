@@ -1,6 +1,6 @@
 ## Python-Project---Coursera-Final-Assignment
 
-Hello, this is my first python project made for the final assignment of Coursera Python Project for Data Science. In this project i had to extract data and then display this data in a graph doing a comparation between both GAMESTOP and TESLA Stock upto jun 2021.
+Hello, this is my first python project made for the final assignment of Coursera Python Project for Data Science. In this project I had to extract data and then display this data in a graph doing a comparation between both GAMESTOP and TESLA Stock upto jun 2021.
 
 This is a part of the IBM DATA SCIENTE SCIENCE PROFISSIONAL CERTIFICATE
 
