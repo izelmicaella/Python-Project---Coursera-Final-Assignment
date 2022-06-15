@@ -1,4 +1,4 @@
-## Python-Project---Coursera-Final-Assignment
+## <h1> Python Project Coursera Final Assignment 
 
 Hello, this is my first python project made for the final assignment of Coursera Python Project for Data Science. In this project I had to extract data and then display this data in a graph doing a comparation between both GAMESTOP and TESLA Stock upto jun 2021.
 
